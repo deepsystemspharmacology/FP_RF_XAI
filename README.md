@@ -10,6 +10,11 @@ The data and code made available here is described in:
 * Maria H. Rasmussen, Diana S. Christensen and Jan H. Jensen. "Do machines dream of atoms? A quantitative molecular benchmark
 for explainable AI heatmaps", *ChemRxiv* (Mar. 2022)
 
+https://chemrxiv.org/engage/chemrxiv/article-details/622f215f968f5252a0ba640d
+
+https://colab.research.google.com/drive/1dVsmJlGqaHykemUCLh--lfoppsbNv_I9?usp=sharing
+
+
 ## Models
 
 The 9 different RF models described in the above mentioned paper is available here: [RF_models](https://sid.erda.dk/sharelink/eUVFpTDU62)
